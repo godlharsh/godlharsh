@@ -2,7 +2,7 @@
 
 # Harsh Mishra
 
-### 🚀 Startup Builder • 💡 Product Developer • 🧠 DSA Learner
+### 🚀 💡AI Enthusiast • 🧠 DSA Learner
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Products+That+Solve+Real+Problems;Learning+Data+Structures+%26+Algorithms;Exploring+Artificial+Intelligence;Always+Learning+Something+New"/>
 
